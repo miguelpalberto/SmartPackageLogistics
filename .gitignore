@@ -1,0 +1,66 @@
+SmartPackageManagement/target/
+!SmartPackageManagement/.mvn/wrapper/maven-wrapper.jar
+!**SmartPackageManagement//src/main/**/target/
+!**SmartPackageManagement//src/test/**/target/
+
+### IntelliJ IDEA ###
+SmartPackageManagement/.idea/modules.xml
+SmartPackageManagement/.idea/jarRepositories.xml
+SmartPackageManagement/.idea/compiler.xml
+SmartPackageManagement/.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+SmartPackageManagement/.apt_generated
+SmartPackageManagement/.classpath
+SmartPackageManagement/.factorypath
+SmartPackageManagement/.project
+SmartPackageManagement/.settings
+SmartPackageManagement/.springBeans
+SmartPackageManagement/.sts4-cache
+
+### NetBeans ###
+SmartPackageManagement//nbproject/private/
+SmartPackageManagement//nbbuild/
+SmartPackageManagement//dist/
+SmartPackageManagement//nbdist/
+SmartPackageManagement//.nb-gradle/
+SmartPackageManagement/build/
+!**SmartPackageManagement//src/main/**/build/
+!**SmartPackageManagement//src/test/**/build/
+
+### VS Code ###
+SmartPackageManagement/.vscode/
+
+### Mac OS ###
+SmartPackageManagement/.DS_Store
+
+SmartPackageManagement/.env
+
+### FRONTEND ###
+# Nuxt dev/build outputs
+SmartPackageManagementFrontEnd/.output
+SmartPackageManagementFrontEnd/.data
+SmartPackageManagementFrontEnd/.nuxt
+SmartPackageManagementFrontEnd/.nitro
+SmartPackageManagementFrontEnd/.cache
+SmartPackageManagementFrontEnd/dist
+
+# Node dependencies
+SmartPackageManagementFrontEnd/node_modules
+
+# Logs
+SmartPackageManagementFrontEnd/logs
+*.log
+
+# Misc
+SmartPackageManagementFrontEnd/.DS_Store
+SmartPackageManagementFrontEnd/.fleet
+SmartPackageManagementFrontEnd/.idea
+
+# Local env files
+SmartPackageManagementFrontEnd/.env
+SmartPackageManagementFrontEnd/.env.*
+!SmartPackageManagementFrontEnd/.env.example
